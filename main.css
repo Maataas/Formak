@@ -12,12 +12,12 @@ div {
     display: inline-block;
 }
 .spacer {
-    width: 100px;
+     width: 70px; 
     height: 50%;
 }
 
 .container {
-    margin-left: calc((100% - 300px) / 2);
+     margin-left: calc((100% - 300px) / 2);
     width: 300px;
     height: 400px;
     background-color: rgba(252, 253, 253, 0.4);
